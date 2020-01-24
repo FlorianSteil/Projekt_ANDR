@@ -18,7 +18,9 @@ Brauchst du Hilf:
 
 - ./android/app/ die goole-services.json kopieren ([FireBase](https://console.firebase.google.com/))
 - ./android/ eine key.properties anlegen mit dem folgenen Inhalt:
-storePassword= <!storepassword>
-keyPassword= <!keypassword>
-keyAlias= <!alias> 
-storeFile= <!pfad of key>
+```
+- storePassword= <!storepassword>
+- keyPassword= <!keypassword>
+- keyAlias= <!alias> 
+- storeFile= <!pfad of key>
+```
